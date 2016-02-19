@@ -1,0 +1,30 @@
+{
+	"color_scheme": "Packages/Colorcoder/Flatland Dark (Colorcoded).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"fonts_list":
+        [
+            "Andale Mono",
+            "Consolas",
+            "Courier",
+            "Courier New",
+            "Envy Code R",
+            "Inconsolata",
+            "Lucida Console",
+            "Menlo",
+            "Meslo LG S",
+            "Meslo LG M",
+            "Meslo LG L",
+            "Monaco",
+            "ProFontX",
+            "Source Code Pro",
+            "Ubuntu Mono"
+        ],
+	"original_color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	   "theme": "Spacegray.sublime-theme",
+	   "font_size": 14,
+	   "line_padding_bottom": 1,
+       "line_padding_top": 1
+}

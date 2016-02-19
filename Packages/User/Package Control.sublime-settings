@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Alignment",
+		"All Autocomplete",
+		"AngularJS",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Can I Use",
+		"Colorcoder",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"HTML Extended",
+		"HTML Snippets",
+		"HTML5",
+		"HTML5 Doctor CSS Reset snippet",
+		"InsertDate",
+		"jQuery",
+		"LESS",
+		"Monokai - Spacegray",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Sublimall",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"SublimeTmpl",
+		"Theme - Brogrammer",
+		"Theme - Flatland",
+		"Theme - Spacegray",
+		"TypeScript"
+	]
+}
